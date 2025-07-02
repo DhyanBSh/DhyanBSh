@@ -1,28 +1,35 @@
-<h2> Software Engineering Undergraduate <br></h2>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=750&lines=Passionate+about+Web+Development+and+UI%2FUX+Designing;" alt="Typing SVG" />
+<h1 align="center">Hi, I'm Dhyan Jayasinghe</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Passionate+about+Web+Development+and+UI%2FUX+Design;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9254C8&height=120&section=header&fontSize=30&fontAlignY=35&descAlignY=55&descAlign=65"/>
 </p>
 
 ---
 
 ### About Me
 
-I am Dhyan Jayasinghe, a final year Software Engineering undergraduate at General Sir John Kotelawala Defence University, Sri Lanka. Passionate about web Development, I specialize in creating efficient software solutions. Additionally, I focus on UI/UX design to build intuitive and visually engaging user interfaces.
+I am **Dhyan Jayasinghe**, a final-year Software Engineering undergraduate at **General Sir John Kotelawala Defence University, Sri Lanka**.  
+With a passion for modern web development, I specialize in building efficient full-stack applications and crafting intuitive, engaging UI/UX experiences.
 
 ---
 
 ### Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dhyan-jayasinghe-697324228/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="dhyan.bhashitha.jayasinghe@gmail.com" target="_blank">
+  <a href="mailto:dhyan.bhashitha.jayasinghe@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://dhyanbhashitha.netlify.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-   <a href="https://www.facebook.com/share/16qzJcXTjV/" target="_blank">
+  <a href="https://www.facebook.com/share/16qzJcXTjV/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dhyan_b_sh?igsh=amxxdTRmNTk4MW9s" target="_blank">
@@ -75,3 +82,8 @@ I am Dhyan Jayasinghe, a final year Software Engineering undergraduate at Genera
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9254C8&height=120&section=footer"/>
+</p>
