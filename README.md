@@ -23,7 +23,7 @@ With a passion for modern web development, I specialize in building efficient fu
     <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://dhyanbhashitha.netlify.app/" target="_blank">
-    <img alt="Portfolio" src="https://dhyanbhashitha.netlify.app/favicon.ico&logo=vercel&logoColor=white"/>
+    <img alt="Portfolio" src="https://dhyanbhashitha.netlify.app/favicon.ico"/>
   </a>
   <a href="https://www.facebook.com/share/16qzJcXTjV/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
