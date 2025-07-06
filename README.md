@@ -9,31 +9,6 @@ With a passion for modern web development, I specialize in building efficient fu
 
 ---
 
-### Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhyan-jayasinghe-697324228/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dhyan.bhashitha.jayasinghe@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://dhyanbhashitha.netlify.app/" target="_blank">
-    <img alt="Portfolio" src="https://dhyanbhashitha.netlify.app/favicon.ico"/>
-  </a>
-  <a href="https://www.facebook.com/share/16qzJcXTjV/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/dhyan_b_sh?igsh=amxxdTRmNTk4MW9s" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.behance.net/dhyanbhashitha" target="_blank">
-    <img alt="Behance" src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### Languages & Tools
 
 #### 🖥️ Frontend
