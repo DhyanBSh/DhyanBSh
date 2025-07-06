@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Passionate+about+Web+Development+and+UI%2FUX+Design;" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9254C8&height=120&section=header&fontSize=30&fontAlignY=35&descAlignY=55&descAlign=65"/>
 </p>
 
