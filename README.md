@@ -1,4 +1,4 @@
-# Dhyan Bhashitha
+# Dhyan Jayasinghe
 
 Software Engineer · Full-Stack Developer · UI/UX-Oriented Builder
 
