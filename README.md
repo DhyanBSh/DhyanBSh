@@ -21,10 +21,8 @@ My approach combines engineering discipline with product thinking, ensuring syst
 
 ## Focus Areas
 
-Full-stack web development using React and Spring Boot  
-RESTful API design and backend architecture  
-UI engineering with responsive and accessible layouts  
-Database design and optimization  
+Frontend development using React  
+UI/UX engineering with responsive and accessible layouts  
 Product-driven development thinking
 
 
